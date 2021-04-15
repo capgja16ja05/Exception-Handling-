@@ -1,0 +1,11 @@
+
+
+  Custom Exception 
+  
+  1) create Custom Exception class
+  
+  2) based on use case
+     -> throw the Custom Exception 
+     
+     
+  3) MainClass (User Code to call the business methods)
